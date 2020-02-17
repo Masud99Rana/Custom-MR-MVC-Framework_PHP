@@ -7,7 +7,7 @@
     // Load model
     public function model($model){
       // Check for view file
-      if(file_exists('../app/models/' . $view . '.php')){
+      if(file_exists('../app/models/' . $model . '.php')){
         // Require model file
         require_once '../app/models/' . $model . '.php';
         // Instatiate model
