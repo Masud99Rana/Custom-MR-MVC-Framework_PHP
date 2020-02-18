@@ -10,4 +10,4 @@
   // URL Root
   define('URLROOT', 'http://localhost/mvc');
   // Site Name
-  define('SITENAME', 'MR MVC For Project');
+  define('SITENAME', 'MR FrameWork');

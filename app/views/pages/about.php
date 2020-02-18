@@ -1,3 +1,5 @@
 <?php require APPROOT . '/views/inc/header.php'; ?>
-  <h1><?php echo $data['title']; ?></h1>
+  <h1>About</h1>
+  <p>This is an app built on the MR PHP framework</p>
+  <p>App Version: <?php echo $data['version']; ?></p>
 <?php require APPROOT . '/views/inc/footer.php'; ?>
