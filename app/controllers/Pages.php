@@ -24,7 +24,8 @@
     public function about(){
       //Set Data
       $data = [
-        'version' => '1.0.0'
+        'version' => '1.0.0',
+        'developer' => 'Md. Masud Rana'
       ];
 
       // Load about view
